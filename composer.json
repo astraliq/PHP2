@@ -1,0 +1,12 @@
+{   
+	"name": "test/test",
+    "type": "project",
+    "license": ,
+    "authors": ,
+    "config": {
+      "vendor-dir": "./app/vendor"
+    },
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}
